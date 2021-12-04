@@ -44,7 +44,6 @@ public class day02{
         int positionMultiplied = (currPosition[0] * currPosition[1]);
         System.out.println("The multiplication value is: " + positionMultiplied);
         } catch (Exception e){
-            System.out.println("cannot find your fucking file");
             e.printStackTrace();
         }
         
